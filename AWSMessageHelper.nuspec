@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Emre Ceyhan</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/aecceyhan/AWSMessageHelper</projectUrl>
+    <repository type="git" url="https://github.com/aecceyhan/AWSMessageHelper" />
+    <description>Message Helper for AWS SNS/SQS.</description>
+    <releaseNotes>First version.</releaseNotes>
+    <copyright>$copyright$</copyright>
+  </metadata>
+</package>
